@@ -723,7 +723,7 @@ form#commant_form div.field textarea.custom_field {
 }
 
 .cours_timging_bg {
-    background: url("images/cours_bg.jpg");
+    background: url("cours_bg.jpg");
     min-height: 780px;
     width: 100%;
     margin-top: 50px;
@@ -772,13 +772,13 @@ form#commant_form div.field textarea.custom_field {
 }
 
 body#inner_page header.header {
-    background-image: url('images/slider_img.png');
+    background-image: url('slider_img.png');
     background-size: 100% auto;
     position: relative;
 }
 
 .blue_pattern_bg {
-    background-image: url('images/blue_bg.png');
+    background-image: url('blue_bg.png');
     background-attachment: fixed;
     background-position: center center;
     min-height: 300px;
@@ -1025,7 +1025,7 @@ div.tab button.active,
 }
 
 .withbg {
-    background: rgba(0, 0, 0, 0) url("images/slider_bg.png") no-repeat scroll center bottom;
+    background: rgba(0, 0, 0, 0) url("slider_bg.png") no-repeat scroll center bottom;
     height: 245px;
     position: absolute;
     top: 30px;
@@ -1152,7 +1152,7 @@ a {
 }
 
 .about_dottat {
-    background: url('images/dottet_bg.png');
+    background: url('dottet_bg.png');
     background-size: cover;
     background-position: center bottom;
 }
@@ -1624,7 +1624,7 @@ header .main_menu .nav-item.active a.nav-link {
 }
 
 .pettr {
-    background-image: url(images/yellow_pettr.png);
+    background-image: url(yellow_pettr.png);
     background-position: center center;
 }
 
@@ -2158,7 +2158,7 @@ p.large_1 {
 
 .dmtop {
     background-color: #111428;
-    background-image: url(images/arrow.png);
+    background-image: url(arrow.png);
     background-position: 50% 50%;
     background-repeat: no-repeat;
     z-index: 9999;
@@ -2490,7 +2490,7 @@ p.large_1 {
 }
 
 .pricing-box-03::before {
-    background: rgba(0, 0, 0, 0) url("images/right.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("right.png") no-repeat scroll 0 0;
     content: "";
     display: inline-block;
     height: 233px;
@@ -2502,7 +2502,7 @@ p.large_1 {
 }
 
 .pricing-box-03.leftbg::after {
-    background: rgba(0, 0, 0, 0) url("images/left.png") no-repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("left.png") no-repeat scroll 0 0;
     content: "";
     display: inline-block;
     height: 233px;
@@ -2870,11 +2870,11 @@ ol.workinghours li span,
 }
 
 .slider1 {
-    background: url("images/slider1.png");
+    background: url("slider1.png");
 }
 
 .slider2 {
-    background: url("images/slider1.png");
+    background: url("slider1.png");
 }
 
 .slider_inner h4 {
@@ -3055,7 +3055,7 @@ h4.font_themecolor {
 }
 
 .counter_section {
-    background-image: url('images/dark_bg1.png');
+    background-image: url('dark_bg1.png');
     background-position: center center;
     background-attachment: fixed;
     background-size: cover;
@@ -3282,7 +3282,7 @@ h4.font_themecolor {
 #testimonial_slider::after {
     width: 74px;
     height: 68px;
-    background: url('images/bottom_arrow.png');
+    background: url('bottom_arrow.png');
     position: absolute;
     bottom: -68px;
     content: "";
@@ -3696,7 +3696,7 @@ h3.price_tag {
 /**-------------------- testimonial page --------------------**/
 
 .testimonial_qoute {
-    background: url(images/yellow_pettr.png);
+    background: url(yellow_pettr.png);
     background-color: #feb61a;
     padding: 49px;
     background-size: auto;
@@ -3705,7 +3705,7 @@ h3.price_tag {
 }
 
 .testimonial_qoute {
-    background: url(images/yellow_pettr.png);
+    background: url(yellow_pettr.png);
     background-color: #feb61a;
     padding: 50px 50px 50px 75px;
     background-size: auto;
@@ -3806,7 +3806,7 @@ h3.price_tag {
     content: "";
     display: block;
     position: absolute;
-    background: url('images/icon_head.png');
+    background: url('icon_head.png');
     left: 25px;
     top: 22px;
     opacity: 1;
@@ -3880,7 +3880,7 @@ h3.price_tag {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('images/error_bg.png');
+    background-image: url('error_bg.png');
     background-size: cover;
     background-position: top right;
 }
